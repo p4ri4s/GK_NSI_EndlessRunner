@@ -3,7 +3,7 @@ GK_NSI Project
 
 Projekt z przedmiotu Grafika Komputerowa, studia niestacjonarne, informatyka.
 
-Authors:
+Autorzy:
 Andrzej Stolot,
 Artur Kokott,
 Dariusz Opitek,
